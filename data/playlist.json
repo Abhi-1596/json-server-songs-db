@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "playlist_name": "First Playlist",
+        "songs": [
+            {
+                "id": 1,
+                "name": "Aap Ki Nazron Ne Samjha",
+                "artist": "Sanam",
+                "album": "Rewind With Sanam",
+                "album_pic": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/38/5c/88/385c88eb-53fb-7251-1c03-fc10c0ccdbcb/195081194868.jpg/600x600bf-60.jpg",
+                "released": 2014,
+                "youtube_Id_URL": "BWLYFc9MDFI"
+            },
+            {
+                "id": 2,
+                "name": "Chal Ghar Chalen",
+                "artist": "Mithoon, Arijit Singh",
+                "album": "Malang",
+                "album_pic": "https://i.ytimg.com/vi/OgCVBmIlIro/maxresdefault.jpg",
+                "released": 2020,
+                "youtube_Id_URL": "i_NmPv5WQ0U"
+            },
+            {
+                "id": 3,
+                "name": "Dheeme Dheeme",
+                "artist": "Tony Kakkar, Neha Kakkar",
+                "album": "Pati Patni Aur Woh",
+                "album_pic": "https://i.ytimg.com/vi/L7a1JSeqaXk/maxresdefault.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "75JsfrRP28M"
+            },
+            {
+                "id": 4,
+                "name": "Khairiyat",
+                "artist": "Arijit Singh",
+                "album": "Chhichhore",
+                "album_pic": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/1331/641331-h",
+                "released": 2019,
+                "youtube_Id_URL": "9-AKLAfpjrI"
+            },
+            {
+                "id": 5,
+                "name": "Humnava Mere",
+                "artist": "Rocky-Shiv",
+                "album": "Humnava Mere",
+                "album_pic": "http://a10.gaanacdn.com/images/song/62/23591462/crop_480x480_1527062006.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "TqR_jWfHW4g"
+            },
+            {
+                "id": 6,
+                "name": "Hawa Banke",
+                "artist": "Darshan Raval",
+                "album": "Hawa Banke",
+                "album_pic": "https://mp3land.co/wp-content/uploads/2020/05/Hawa-Banke-Song-Download.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "dLc-95Cjz9I"
+            },
+            {
+                "id": 7,
+                "name": "Hawayein",
+                "artist": "Arijit Singh",
+                "album": "Jab Harry met Sejal",
+                "album_pic": "https://m.media-amazon.com/images/M/MV5BMjIzMDI2NDUwOV5BMl5BanBnXkFtZTgwNzE2NjU3MjI@._V1_.jpg",
+                "released": 2017,
+                "youtube_Id_URL": "cYOB941gyXI"
+            },
+            {
+                "id": 8,
+                "name": "Haan Main Galat",
+                "artist": "Arijit Singh, Shashwat Singh, Pritam Chakraborty",
+                "album": "Love Aaj Kal",
+                "album_pic": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/512/512/0/13/1/fa94f1f076a811eaaec7219e31501c14_1588672182068_p_medium.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "yRB0xbKDebo"
+            },
+            {
+                "id": 9,
+                "name": "Dilbara",
+                "artist": "Sachet Tandon, Parampara Thakur",
+                "album": "Pati Patni Aur Woh",
+                "album_pic": "https://i.ytimg.com/vi/L7a1JSeqaXk/maxresdefault.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "Sppp2q-aN6g"
+            },
+            {
+                "id": 10,
+                "name": "Dilbar",
+                "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka Singh",
+                "album": "Sathyameva Jayathe",
+                "album_pic": "https://c.ndtvimg.com/kr540avg_satyameva-jayate-instagram_625x300_15_August_18.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "JFcgOboQZ08"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "playlist_name": "Second Playlist",
+        "songs": [
+            {
+                "id": 30,
+                "name": "Mitti Di Khushboo",
+                "artist": "Ayushmann Khurrana",
+                "album": "Ayushmann - The Rockstar",
+                "album_pic": "https://snoidcdnems08.cdnsrv.jio.com/c.saavncdn.com/390/Ayushman-The-Rockstar-Hindi-2016-500x500.jpg",
+                "released": 2016,
+                "youtube_Id_URL": "U4tPQ6q042U"
+            },
+            {
+                "id": 31,
+                "name": "Main Tera Boyfriend",
+                "artist": "Arijit Singh, Neha Kakkar, Meet Bros",
+                "album": "Raabta",
+                "album_pic": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201706/raabta-review-647_060917020819.jpg?size=1200:675",
+                "released": 2017,
+                "youtube_Id_URL": "FQS7i2z1CoA"
+            },
+            {
+                "id": 32,
+                "name": "Hauli Hauli",
+                "artist": "Garry Sandhu, Neha Kakkar, Mellow D",
+                "album": "De De Pyaar De",
+                "album_pic": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5955/525955-h",
+                "released": 2019,
+                "youtube_Id_URL": "leyEatUq00E"
+            },
+            {
+                "id": 33,
+                "name": "Dil Chori",
+                "artist": "Ishers",
+                "album": "Sonu Ke Titu Ki Sweety",
+                "album_pic": "https://www.movienewsletters.net/photos/NZL_252947R1.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "eXBkFr_s3Bc"
+            },
+            {
+                "id": 34,
+                "name": "Bol Do Na Zara",
+                "artist": "Armaan Malik",
+                "album": "Azhar",
+                "album_pic": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/azhar-et00030627-17-04-2017-17-54-14.jpg",
+                "released": 2016,
+                "youtube_Id_URL": "EpEraRui1pc"
+            },
+            {
+                "id": 35,
+                "name": "Sunn Raha Hai",
+                "artist": "Ankit Tiwari",
+                "album": "Aashiqui 2",
+                "album_pic": "https://images-na.ssl-images-amazon.com/images/I/811pIXVCAjL._RI_.jpg",
+                "released": 2013,
+                "youtube_Id_URL": "z3UHfi9vpbc"
+            },
+            {
+                "id": 36,
+                "name": "Bhula Dena",
+                "artist": "Mustafa Zahid",
+                "album": "Aashiqui 2",
+                "album_pic": "https://images-na.ssl-images-amazon.com/images/I/811pIXVCAjL._RI_.jpg",
+                "released": 2013,
+                "youtube_Id_URL": "g8LEktKv9hs"
+            },
+            {
+                "id": 37,
+                "name": "Nazar Na Lag Jaaye",
+                "artist": "Sachin–Jigar, Ash King",
+                "album": "Stree",
+                "album_pic": "https://upload.wikimedia.org/wikipedia/en/4/4f/Stree_-_2018_Movie_Poster.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "-JMtKCqnkm0"
+            },
+            {
+                "id": 38,
+                "name": "Chhote Chhote Peg",
+                "artist": "Neha Kakkar, Yo Yo Honey Singh, Navraj Hans",
+                "album": "Sonu Ke Titu Ki Sweety",
+                "album_pic": "https://www.movienewsletters.net/photos/NZL_252947R1.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "daFPRysCU3E"
+            },
+            {
+                "id": 39,
+                "name": "Bom Diggy Diggy",
+                "artist": "Zack Knight, Jasmin Walia",
+                "album": "Sonu Ke Titu Ki Sweety",
+                "album_pic": "https://www.movienewsletters.net/photos/NZL_252947R1.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "yIIGQB6EMAM"
+            },
+            {
+                "id": 40,
+                "name": "Bekhayali",
+                "artist": "Sachet Tandon",
+                "album": "Kabir Singh",
+                "album_pic": "https://resources.tidal.com/images/244f330c/0783/43d7/9ba3/5af0b772ffd6/640x640.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "VOLKJJvfAbg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "playlist_name": "3rd Playlist",
+        "songs": [
+            {
+                "id": 13,
+                "name": "Tenu Kehna",
+                "artist": "Ashish Chhabra",
+                "album": "Tenu Kehna",
+                "album_pic": "https://1.bp.blogspot.com/-YRb7Acty28s/XkpxBzYhsxI/AAAAAAAAA-I/DGGyv0CkEdQTN34zdvsI7iUDzCQ_vXuMwCLcBGAsYHQ/s1600/Tenu%2BKehna%2Blyrics%2Bin%2BHindi.jpg",
+                "released": 2020,
+                "youtube_Id_URL": "pmOYm1_fgWs"
+            },
+            {
+                "id": 14,
+                "name": "Kuch To Hai",
+                "artist": "Armaan Malik",
+                "album": "Do Lafzon Ki Kahani",
+                "album_pic": "https://m.media-amazon.com/images/M/MV5BZjYzOTY5ZTUtNWY3OS00M2YyLTkzOGEtYjFhZGIzMjBlYTYzXkEyXkFqcGdeQXVyNjUzMzI4OTg@._V1_.jpg",
+                "released": 2016,
+                "youtube_Id_URL": "Jis04VOZyEU"
+            },
+            {
+                "id": 15,
+                "name": "Dil Mein Chhupa Loonga",
+                "artist": "Meet Bros, Armaan Malik, Tulsi Kumar",
+                "album": "Wajah Tum Ho",
+                "album_pic": "https://a10.gaanacdn.com/gn_img/albums/Oxd3xzPbgV/xd3x67qPbg/size_xxl.webp",
+                "released": 2016,
+                "youtube_Id_URL": "qUvPzjSWMSM"
+            },
+            {
+                "id": 16,
+                "name": "Dil Mein Ho Tum",
+                "artist": "Armaan Malik",
+                "album": "Why Cheat India",
+                "album_pic": "https://i2.cinestaan.com/image-bank/1500-1500/139001-140000/139813.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "byitAI7kkOM"
+            },
+            {
+                "id": 23,
+                "name": "Channa Mereya",
+                "artist": "Arijit Singh",
+                "album": "Ae Dil Hai Mushkil",
+                "album_pic": "https://images-na.ssl-images-amazon.com/images/I/81BSgB+l82L._RI_.jpg",
+                "released": 2016,
+                "youtube_Id_URL": "bzSTpdcs-EI"
+            },
+            {
+                "id": 24,
+                "name": "Ae Dil Hai Mushkil",
+                "artist": "Arijit Singh",
+                "album": "Ae Dil Hai Mushkil",
+                "album_pic": "https://images-na.ssl-images-amazon.com/images/I/81BSgB+l82L._RI_.jpg",
+                "released": 2016,
+                "youtube_Id_URL": "6FURuLYrR_Q"
+            },
+            {
+                "id": 36,
+                "name": "Bhula Dena",
+                "artist": "Mustafa Zahid",
+                "album": "Aashiqui 2",
+                "album_pic": "https://images-na.ssl-images-amazon.com/images/I/811pIXVCAjL._RI_.jpg",
+                "released": 2013,
+                "youtube_Id_URL": "g8LEktKv9hs"
+            },
+            {
+                "id": 37,
+                "name": "Nazar Na Lag Jaaye",
+                "artist": "Sachin–Jigar, Ash King",
+                "album": "Stree",
+                "album_pic": "https://upload.wikimedia.org/wikipedia/en/4/4f/Stree_-_2018_Movie_Poster.jpg",
+                "released": 2018,
+                "youtube_Id_URL": "-JMtKCqnkm0"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "playlist_name": "4th",
+        "songs": [
+            {
+                "id": 1,
+                "name": "Aap Ki Nazron Ne Samjha",
+                "artist": "Sanam",
+                "album": "Rewind With Sanam",
+                "album_pic": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/38/5c/88/385c88eb-53fb-7251-1c03-fc10c0ccdbcb/195081194868.jpg/600x600bf-60.jpg",
+                "released": 2014,
+                "youtube_Id_URL": "BWLYFc9MDFI"
+            },
+            {
+                "id": 2,
+                "name": "Chal Ghar Chalen",
+                "artist": "Mithoon, Arijit Singh",
+                "album": "Malang",
+                "album_pic": "https://i.ytimg.com/vi/OgCVBmIlIro/maxresdefault.jpg",
+                "released": 2020,
+                "youtube_Id_URL": "i_NmPv5WQ0U"
+            },
+            {
+                "id": 3,
+                "name": "Dheeme Dheeme",
+                "artist": "Tony Kakkar, Neha Kakkar",
+                "album": "Pati Patni Aur Woh",
+                "album_pic": "https://i.ytimg.com/vi/L7a1JSeqaXk/maxresdefault.jpg",
+                "released": 2019,
+                "youtube_Id_URL": "75JsfrRP28M"
+            }
+        ]
+    }
+]

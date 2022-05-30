@@ -1,6 +1,8 @@
-const songs = require("./data/songs-db");
+const songsList = require("./data/songs-list");
+const playList = require("./data/playlist");
+const users = require("./data/users");
 
-module.exports = {songs}
+module.exports = {songsList, playList, users}
 
 
 // const items = require("./data/items");

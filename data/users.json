@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "email": "abhilash@wipro.com",
+        "password": "abhi@1234",
+        "firstName": "Abhilash",
+        "lastName": "Mishra",
+        "location": "Balangir",
+        "mobile_no": "7008099618"
+    },
+    {
+        "id": 2,
+        "email": "admin@wipro.com",
+        "password": "admin@1234",
+        "firstName": "Admin",
+        "lastName": "User",
+        "location": "Bangalore",
+        "mobile_no": "0123456789"
+    },
+    {
+        "id": 3,
+        "email": "abhi@gmail.com",
+        "password": "abhi@123",
+        "firstName": "Abhinav",
+        "lastName": "Pranjal Rai",
+        "location": "Delhi",
+        "mobile_no": "1029384756"
+    },
+    {
+        "id": 4,
+        "email": "ronu@gmail.com",
+        "password": "Ronu@123",
+        "firstName": "Ronu",
+        "lastName": "1519",
+        "location": "Balangir",
+        "mobile_no": "7008099618"
+    }
+]
